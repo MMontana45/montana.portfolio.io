@@ -1,5 +1,6 @@
-# **Michael Montana**
-Software Engineer and Data Scientist
+# **Software Engineer / Data Scientist**
+
+---
 
 ## [Contact Me](contact.md)
 
@@ -8,7 +9,7 @@ Software Engineer and Data Scientist
 ## **Education**
 
 
-**B.S. in Data Science - Bellevue University**
+- B.S. in Data Science - Bellevue University
 
 
 ## Work Experience
