@@ -1,8 +1,16 @@
 ## Optimizing Healthcare Expenditure through Machine Learning Insights
 
 ---
+## <a href="DSC450/data/insurance.csv" target="_blank">Raw Data</a>
 
-- <a href="DSC450/data/insurance.csv" target="_blank">Raw Data</a>
+
+
+
+
+
+---
+
+
 
 - <a href="DSC450/Code/DSC_450_Project.ipynb" target="_blank">Exploratory Data Analysis and Model Development Notebook</a>
  
