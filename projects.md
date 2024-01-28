@@ -2,20 +2,20 @@
 
 ---
 ## <a href="DSC450/data/insurance.csv" target="_blank">Raw Data</a>
-<img src="/assets/img/raw_data.jpg" alt="Raw Data">
+![Raw Data](/assets/img/raw_data.jpg)
 
 ---
 ## <a href="DSC450/Code/DSC_450_Project.ipynb" target="_blank">Exploratory Data Analysis and Model Development Notebook</a>
-<img src="/assets/img/project_features.jpg" alt="Cleaned Data">
-<img src="/assets/img/data_stats.jpg" alt="Data Statistics">
-<img src="/assets/img/correlation.png" alt="Feature Correlations">
-<img src="/assets/img/models.jpg" alt="Tested Models">
+![Cleaned Data](/assets/img/project_features.jpg)
+![Data Statistics](/assets/img/data_stats.jpg)
+![Feature Correlations](/assets/img/correlation.png)
+![Tested Models](/assets/img/models.jpg)
 
 --- 
 
 ## <a href="DSC450/model" target="_blank">Model and Scaler</a>
 
-<img src="/assets/img/random_forest.JPG" alt="Model Stats">
+![Model Stats](/assets/img/random_forest.jpg)
 
 ---
 
